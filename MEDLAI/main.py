@@ -1,17 +1,17 @@
-import fyp.medlai1
-import fyp.medlai2
-import fyp.medlai3
+# import fyp.medlai1
+# import fyp.medlai2
+# import fyp.medlai3
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtGui import QImage, QPalette, QBrush
 from PyQt5.QtCore import QSize
 from PyQt5.QtGui import QImage, QPalette, QBrush
 import os
 import sys
-import fyp.musicGenerator
+# import fyp.musicGenerator
 # import PyQt5.QtMultimedia as M
 # import pygame
 import time
-import musicGeneratorTransformers
+# import musicGeneratorTransformers
 import sadGenerator
 
 currentDir = os.path.dirname(os.path.realpath(__file__))
